@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-24T07:33:54.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="jpfkA8Fm26gqbVJF34Ch" version="14.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-24T07:58:33.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.164 Safari/537.36" etag="-bohTNEplDLId_ay0b_W" version="14.9.2" type="github">
   <diagram id="teOBSdAUKKFWsfus6q4V" name="第 1 页">
     <mxGraphModel dx="1221" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="bS9oU5hErUytyoPM4GPt-17" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;spacingTop=2;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-2" target="bS9oU5hErUytyoPM4GPt-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bS9oU5hErUytyoPM4GPt-2" value="用户&lt;br&gt;需要登录" style="shape=actor;whiteSpace=wrap;html=1;verticalAlign=bottom;spacingTop=2;" vertex="1" parent="1">
+        <mxCell id="bS9oU5hErUytyoPM4GPt-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;用户&lt;/b&gt;&lt;br&gt;&lt;/font&gt;" style="shape=actor;whiteSpace=wrap;html=1;verticalAlign=middle;spacingTop=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="160" width="150" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="bS9oU5hErUytyoPM4GPt-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;spacingTop=2;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-8" target="bS9oU5hErUytyoPM4GPt-7">
+        <mxCell id="bS9oU5hErUytyoPM4GPt-15" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.143;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;spacingTop=2;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-8" target="bS9oU5hErUytyoPM4GPt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS9oU5hErUytyoPM4GPt-8" value="&lt;font&gt;&lt;span style=&quot;font-weight: bold ; font-size: 16px&quot;&gt;管理系统&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;[java and springboot]&lt;br&gt;&lt;/font&gt;查看，新建下载&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;spacingTop=2;" vertex="1" parent="1">
           <mxGeometry x="90" y="400" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bS9oU5hErUytyoPM4GPt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;spacingTop=2;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-9" target="bS9oU5hErUytyoPM4GPt-7">
+        <mxCell id="bS9oU5hErUytyoPM4GPt-16" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.006;entryY=0.858;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;spacingTop=2;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-9" target="bS9oU5hErUytyoPM4GPt-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bS9oU5hErUytyoPM4GPt-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;爬虫系统&lt;/font&gt;&lt;/b&gt;&lt;br&gt;[python]&lt;br&gt;定时抓取网上数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;spacingTop=2;" vertex="1" parent="1">
@@ -25,7 +25,7 @@
         <mxCell id="bS9oU5hErUytyoPM4GPt-11" value="" style="group;spacingTop=2;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="340" y="400" width="240" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="bS9oU5hErUytyoPM4GPt-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;下载服务&lt;/b&gt;&lt;/font&gt;&lt;br&gt;aria2NG用于展示aria2下载过程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;dashed=1;spacingTop=2;" vertex="1" parent="bS9oU5hErUytyoPM4GPt-11">
+        <mxCell id="bS9oU5hErUytyoPM4GPt-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;下载系统&lt;/b&gt;&lt;/font&gt;&lt;br&gt;aria2NG用于展示aria2下载过程" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=top;dashed=1;spacingTop=2;spacing=2;spacingBottom=0;" vertex="1" parent="bS9oU5hErUytyoPM4GPt-11">
           <mxGeometry width="240" height="280" as="geometry" />
         </mxCell>
         <mxCell id="bS9oU5hErUytyoPM4GPt-4" value="&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;aria2NG&lt;/font&gt;&lt;/b&gt;&lt;br&gt;[nginx]&lt;br&gt;管理aria2&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fontSize=14;spacingTop=2;" vertex="1" parent="bS9oU5hErUytyoPM4GPt-11">
@@ -40,7 +40,7 @@
         <mxCell id="bS9oU5hErUytyoPM4GPt-19" value="&lt;font&gt;&lt;span style=&quot;font-weight: bold ; font-size: 16px&quot;&gt;存储系统&lt;/span&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;[python]&lt;br&gt;&lt;/font&gt;处理下载后的内容&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;verticalAlign=middle;spacingTop=2;" vertex="1" parent="1">
           <mxGeometry x="670" y="500" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bS9oU5hErUytyoPM4GPt-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-7" target="bS9oU5hErUytyoPM4GPt-19">
+        <mxCell id="bS9oU5hErUytyoPM4GPt-20" value="use" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="bS9oU5hErUytyoPM4GPt-7" target="bS9oU5hErUytyoPM4GPt-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
